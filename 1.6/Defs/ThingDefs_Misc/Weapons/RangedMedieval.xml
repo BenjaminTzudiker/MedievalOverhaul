@@ -353,7 +353,7 @@
       <defName>DankPyon_Bullet_Arquebus</defName>
       <label>handgonne blast</label>
       <graphicData>
-          <texPath>Things/Projectile/Bullet_Shotgun</texPath>
+          <texPath>Things/Projectile/Bullet_Big</texPath>
           <graphicClass>Graphic_Single</graphicClass>
       </graphicData>
       <projectile>
