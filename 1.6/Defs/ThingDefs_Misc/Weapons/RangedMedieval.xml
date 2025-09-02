@@ -307,8 +307,7 @@
             <li>DankPyon_Workbench</li>
         </recipeUsers>
     <researchPrerequisites>
-      <li>DankPyon_Gunpowder</li>
-      <li>Smithing</li>
+      <li>DankPyon_Arquebus</li>
     </researchPrerequisites>
     <unfinishedThingDef>UnfinishedGun</unfinishedThingDef>
         <skillRequirements>
