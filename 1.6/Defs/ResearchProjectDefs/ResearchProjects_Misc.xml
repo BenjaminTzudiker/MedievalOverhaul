@@ -518,7 +518,7 @@
 		<tab>DankPyon_MedievalResearchTab</tab>
 		<techLevel>Medieval</techLevel>
 		<researchViewX>7.00</researchViewX>
-		<researchViewY>5.40</researchViewY>
+		<researchViewY>4.80</researchViewY>
 		<prerequisites>
 			<li>DankPyon_Alchemy</li>
 		</prerequisites>
@@ -542,7 +542,7 @@
 		<tab>DankPyon_MedievalResearchTab</tab>
 		<techLevel>Medieval</techLevel>
 		<researchViewX>7.00</researchViewX>
-		<researchViewY>4.80</researchViewY>
+		<researchViewY>5.40</researchViewY>
 		<prerequisites>
 			<li>DankPyon_Alchemy</li>
 		</prerequisites>
