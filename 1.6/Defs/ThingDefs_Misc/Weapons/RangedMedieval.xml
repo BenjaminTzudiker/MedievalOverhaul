@@ -180,20 +180,17 @@
     <soundInteract>Interact_Rifle</soundInteract>
     <costList>
         <WoodLog>20</WoodLog>
-        <DankPyon_IronIngot>65</DankPyon_IronIngot>
+        <DankPyon_IronIngot>30</DankPyon_IronIngot>
     </costList>
     <statBases>
-        <WorkToMake>12000</WorkToMake>
+        <WorkToMake>8000</WorkToMake>
         <Mass>4</Mass>
         <AccuracyTouch>0.87</AccuracyTouch>
-        <AccuracyShort>0.83</AccuracyShort>
-        <AccuracyMedium>0.73</AccuracyMedium>
-        <AccuracyLong>0.61</AccuracyLong>
+        <AccuracyShort>0.78</AccuracyShort>
+        <AccuracyMedium>0.62</AccuracyMedium>
+        <AccuracyLong>0.45</AccuracyLong>
         <RangedWeapon_Cooldown>10</RangedWeapon_Cooldown>
     </statBases>
-    <equippedStatOffsets>
-        <ShootingAccuracyPawn>2</ShootingAccuracyPawn>
-    </equippedStatOffsets>
     <weaponTags>
         <li>DankPyon_Handgonne</li>
     </weaponTags>
@@ -252,21 +249,21 @@
     </tools>
   </ThingDef>
 
-<ThingDef ParentName="BaseBullet">
-    <defName>DankPyon_Bullet_Handgonne</defName>
-    <label>handgonne blast</label>
-    <graphicData>
-        <texPath>Things/Projectile/Bullet_Shotgun</texPath>
-        <graphicClass>Graphic_Single</graphicClass>
-    </graphicData>
-    <projectile>
-        <damageDef>Bullet</damageDef>
-        <damageAmountBase>15</damageAmountBase>
-        <stoppingPower>3</stoppingPower>
-        <armorPenetrationBase>0.10</armorPenetrationBase>
-        <speed>70</speed>
-    </projectile>
-</ThingDef>
+  <ThingDef ParentName="BaseBullet">
+      <defName>DankPyon_Bullet_Handgonne</defName>
+      <label>handgonne blast</label>
+      <graphicData>
+          <texPath>Things/Projectile/Bullet_Shotgun</texPath>
+          <graphicClass>Graphic_Single</graphicClass>
+      </graphicData>
+      <projectile>
+          <damageDef>Bullet</damageDef>
+          <damageAmountBase>15</damageAmountBase>
+          <stoppingPower>3</stoppingPower>
+          <armorPenetrationBase>0.10</armorPenetrationBase>
+          <speed>70</speed>
+      </projectile>
+  </ThingDef>
   
   <ThingDef ParentName="BaseMakeableGun">
     <defName>DankPyon_Arquebus</defName>
