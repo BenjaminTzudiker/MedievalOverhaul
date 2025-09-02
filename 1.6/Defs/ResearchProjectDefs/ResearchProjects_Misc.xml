@@ -236,7 +236,7 @@
 		<baseCost>600</baseCost>
 		<tab>DankPyon_MedievalResearchTab</tab>
 		<techLevel>Medieval</techLevel>
-		<researchViewX>9</researchViewX>
+		<researchViewX>10</researchViewX>
 		<researchViewY>5.4</researchViewY>
 		<prerequisites>
 			<li>Smithing</li>
@@ -335,7 +335,7 @@
 		<baseCost>400</baseCost>
 		<tab>DankPyon_MedievalResearchTab</tab>
 		<techLevel>Medieval</techLevel>
-		<researchViewX>9</researchViewX>
+		<researchViewX>10</researchViewX>
 		<researchViewY>4.8</researchViewY>
 		<prerequisites>
 			<li>Smithing</li>
@@ -359,7 +359,7 @@
 		<baseCost>700</baseCost>
 		<tab>DankPyon_MedievalResearchTab</tab>
 		<techLevel>Medieval</techLevel>
-		<researchViewX>10</researchViewX>
+		<researchViewX>11</researchViewX>
 		<researchViewY>5.4</researchViewY>
 		<prerequisites>
 			<li>DankPyon_Crossbow</li>
