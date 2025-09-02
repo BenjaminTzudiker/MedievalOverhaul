@@ -576,6 +576,11 @@
 				<li>subject->arquebus</li>
 			</rulesStrings>
 		</generalRules>
+		<modExtensions>
+			<li Class="MedievalOverhaul.RequiredSchematic">
+				<schematicDef>DankPyon_Schematic_Arquebus</schematicDef>
+			</li>
+		</modExtensions>
 	</ResearchProjectDef>
 
 
