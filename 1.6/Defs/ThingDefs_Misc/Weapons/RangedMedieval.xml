@@ -198,21 +198,21 @@
         <li>ShortShots</li>
     </weaponClasses>
     <recipeMaker Inherit="False">
-    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+      <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
       <workSkill>Crafting</workSkill>
       <effectWorking>Smith</effectWorking>
       <soundWorking>Recipe_Smith</soundWorking>
-        <recipeUsers>
-            <li>DankPyon_Workbench</li>
-        </recipeUsers>
-    <researchPrerequisites>
-      <li>DankPyon_Gunpowder</li>
-      <li>Smithing</li>
-    </researchPrerequisites>
-    <unfinishedThingDef>UnfinishedGun</unfinishedThingDef>
-        <skillRequirements>
-            <Crafting>6</Crafting>
-        </skillRequirements>
+      <recipeUsers>
+          <li>DankPyon_Workbench</li>
+      </recipeUsers>
+      <researchPrerequisites>
+        <li>DankPyon_Gunpowder</li>
+        <li>Smithing</li>
+      </researchPrerequisites>
+      <unfinishedThingDef>UnfinishedGun</unfinishedThingDef>
+      <skillRequirements>
+          <Crafting>6</Crafting>
+      </skillRequirements>
     </recipeMaker>
     <verbs>
       <li>
@@ -299,20 +299,20 @@
         <li>LongShots</li>
     </weaponClasses>
     <recipeMaker Inherit="False">
-    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+      <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
       <workSkill>Crafting</workSkill>
       <effectWorking>Smith</effectWorking>
       <soundWorking>Recipe_Smith</soundWorking>
-        <recipeUsers>
-            <li>DankPyon_Workbench</li>
-        </recipeUsers>
-    <researchPrerequisites>
-      <li>DankPyon_Arquebus</li>
-    </researchPrerequisites>
-    <unfinishedThingDef>UnfinishedGun</unfinishedThingDef>
-        <skillRequirements>
-            <Crafting>10</Crafting>
-        </skillRequirements>
+      <recipeUsers>
+          <li>DankPyon_Workbench</li>
+      </recipeUsers>
+      <researchPrerequisites>
+        <li>DankPyon_Arquebus</li>
+      </researchPrerequisites>
+      <unfinishedThingDef>UnfinishedGun</unfinishedThingDef>
+      <skillRequirements>
+          <Crafting>10</Crafting>
+      </skillRequirements>
     </recipeMaker>
     <verbs>
       <li>
